@@ -4,58 +4,72 @@
 
 ---
 
-## 🎥 推荐视频学习资源（免费）
+## 🎥 推荐学习资源
 
-**强烈建议配合以下免费视频课程学习，比纯文字更生动易懂！**
+**⚠️ 重要提示**：网络技术基础知识（OSI 模型、TCP/IP、路由交换原理等）多年来变化不大，**2018-2020年的教程仍然有效**。核心概念和协议原理是稳定的，考试大纲变化也不大。
 
-### 🌟 首选推荐
+### 📚 推荐学习方式
 
-#### 1. Jeremy's IT Lab（YouTube）
-- **链接**：https://www.youtube.com/c/JeremysITLab
-- **内容**：CCNA 200-301 完整免费课程
+#### 1. **Cisco 官方资源（推荐）**
+- **Cisco Networking Academy（NetAcad）**
+  - 链接：https://www.netacad.com/
+  - 官方免费课程，内容权威
+  - 包含互动实验和练习
+  - 有中文版本
+
+- **Cisco 官方文档**
+  - 链接：https://www.cisco.com/c/en/us/support/index.html
+  - 最权威的技术资料
+  - 配置指南和命令参考
+
+#### 2. **Packet Tracer 实践（强烈推荐）**
+- **下载地址**：https://www.netacad.com/courses/packet-tracer
 - **特点**：
-  - 100% 免费，无需付费
-  - 针对**最新 CCNA 200-301** 考试（2020年发布）
-  - 讲解生动有趣，非常适合零基础
-  - 包含大量 Packet Tracer 实验演示
-  - 每个视频 10-30 分钟，学习轻松
+  - Cisco 官方免费网络模拟器
+  - 可视化操作，拖拽式搭建网络
+  - 包含大量实验练习
+  - 适合零基础学习
 
-#### 2. David Bombal（YouTube）
-- **链接**：https://www.youtube.com/c/davidbombal
-- **内容**：网络技术、Cisco、Python 自动化
-- **特点**：
-  - 持续更新，内容较新
-  - 涵盖 CCNA、CCNP、网络自动化
-  - 实战性强，有很多实际操作演示
+#### 3. **视频学习资源**
+**注意**：以下资源发布时间较早，但核心知识仍然有效：
+
+- **YouTube 搜索关键词**：
+  - "CCNA 200-301 free course"
+  - "Cisco Packet Tracer tutorial"
+  - "Networking basics for beginners"
+
+- **推荐频道**（需自行搜索验证）：
+  - 搜索 "CCNA tutorial" 找到最新视频
+  - 搜索 "Packet Tracer labs" 学习实验
+  - 搜索 "OSI model explained" 理解基础概念
+
+#### 4. **互动学习平台**
+- **GNS3**：https://www.gns3.com/
+  - 更真实的网络仿真
+  - 可以运行真实的 Cisco IOS
+
+- **EVE-NG**：https://www.eve-ng.net/
+  - 专业级网络仿真平台
   - 适合进阶学习
-
-#### 3. Ben Piper（YouTube）
-- **链接**：https://www.youtube.com/c/BenPiper
-- **内容**：CCNP ENCOR 350-401 课程
-- **特点**：
-  - 免费的 CCNP 课程
-  - 讲解清晰，适合进阶学习
-  - 2021-2022年录制，内容较新
-
-### 💰 付费但经常打折
-
-#### 4. Neil Anderson（Udemy）
-- **链接**：https://www.udemy.com/user/neil-anderson-2/
-- **内容**：CCNA/CCNP 完整课程
-- **特点**：
-  - 原价 $100+，但经常打折到 $10-15
-  - 质量非常高，讲解非常清晰
-  - 包含大量实验和练习
-  - 适合想要系统学习的学员
 
 ### 📚 学习建议
 
-1. **先看视频理解概念** - 从 Jeremy's IT Lab 开始
-2. **再用 Packet Tracer 做实验** - 边看边做
-3. **遇到问题查本书** - 作为参考手册
-4. **定期复习** - 视频可以反复观看
+1. **从本书开始** - 按章节顺序学习理论
+2. **配合 Packet Tracer** - 每学完一章就做实验
+3. **观看演示视频** - 遇到难点时搜索相关视频
+4. **多做练习** - 使用 Packet Tracer 反复练习配置
+5. **查阅官方文档** - 遇到不确定的命令时查官方资料
 
-**⚠️ 注意**：只选择针对 **CCNA 200-301** 的课程（2020年后发布），避免使用过时的 200-125 版本。
+### 💡 学习重点
+
+**对于零基础，重点掌握：**
+- OSI 模型和 TCP/IP 协议栈
+- IP 地址和子网划分
+- 路由和交换基础
+- 基本网络设备配置
+- 网络故障排除
+
+**⚠️ 注意**：避免使用 2018 年之前的教程（CCNA 200-125 版本），尽量选择 2020 年后的 CCNA 200-301 相关内容。但核心网络基础知识多年来变化不大，2018-2020 年的教程仍然有参考价值。
 
 ---
 
